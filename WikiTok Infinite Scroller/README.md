@@ -1,0 +1,37 @@
+WikiTok Infinite Scroller
+The way we consume text-based content has been revolutionized by the interactive web application WikiTok.  This project, which was inspired by TikTok's vertical feed, displays information in fullscreen cards to create a seamless, engaging, and eye-catching reading experience.
+
+Features
+🎨 Card layout in fullscreen with a consistent gradient background
+
+✨ Improved readability with fluid movements and fade-up effects 
+
+🔄 React and Intersection Observer power endless scrolling
+
+🖥  Desktop screen responsive design
+
+📝 Simple to modify for quotations, articles, or instructional briefs
+
+Installation
+
+1) Clone the repository: 
+git clone https://github.com/your-username/wikitok.git
+cd wikitok
+
+2) Install dependencies:
+npm install
+
+3) Start the development server:
+npm start
+
+4) Run the host URL http://localhost:3000/ in your browser.
+
+Usage
+
+Scroll vertically to browse content
+
+Each card displays a title, content snippet, and author name
+
+New cards load automatically when reaching the bottom of the feed
+
+
