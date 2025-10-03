@@ -2,9 +2,7 @@
 
 ## Overview
 
-**WikiTok** is an interactive web application that reimagines how we consume text-based content. Inspired by TikTok's vertical feed, this project presents information in **fullscreen cards**, providing a smooth, immersive, and visually appealing reading experience.
-
-Each card displays a **title**, **body content**, and a **random author name**, making content consumption engaging and dynamic. Infinite scrolling ensures users can continuously browse new content seamlessly.
+**WikiTok** is an interactive web application that reimagines how we consume text-based content. Inspired by TikTok's vertical feed, this project presents information in **fullscreen cards**, providing a smooth, immersive, and visually appealing reading experience. This ensures users can continuously browse new content seamlessly.
 
 ## Features
 * 🎨 Card layout in fullscreen with a consistent gradient background
@@ -77,5 +75,6 @@ Add a live demo link here (e.g., Netlify, Vercel) if hosted:
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
 
 
