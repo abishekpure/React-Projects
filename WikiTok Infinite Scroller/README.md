@@ -1,4 +1,4 @@
-WikiTok Infinite Scroller
+<h1><center>WikiTok Infinite Scroller</center></h1>
 The way we consume text-based content has been revolutionized by the interactive web application WikiTok.  This project, which was inspired by TikTok's vertical feed, displays information in fullscreen cards to create a seamless, engaging, and eye-catching reading experience.
 
 Features
