@@ -36,7 +36,7 @@ This project demonstrates how thoughtful **UI/UX design** can transform static c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wikitok.git
+git clone https://github.com/abishekpure/wikitok.git
 cd wikitok
 ```
 
@@ -75,6 +75,7 @@ Add a live demo link here (e.g., Netlify, Vercel) if hosted:
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
 
 
 
