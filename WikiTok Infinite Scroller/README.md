@@ -1,8 +1,5 @@
 # WikiTok – Infinite Scrolling Card Experience
 
-![Project Screenshot](screenshot.png)
-*(Replace with your actual screenshot)*
-
 ## Overview
 
 **WikiTok** is an interactive web application that reimagines how we consume text-based content. Inspired by TikTok's vertical feed, this project presents information in **fullscreen cards**, providing a smooth, immersive, and visually appealing reading experience.
@@ -78,3 +75,4 @@ Add a live demo link here (e.g., Netlify, Vercel) if hosted:
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
