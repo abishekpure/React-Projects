@@ -7,13 +7,15 @@
 Each card displays a **title**, **body content**, and a **random author name**, making content consumption engaging and dynamic. Infinite scrolling ensures users can continuously browse new content seamlessly.
 
 ## Features
+* 🎨 Card layout in fullscreen with a consistent gradient background
 
-* 🎨 **Fullscreen Card Layout** with uniform gradient background
-* ✨ **Smooth animations** and fade-up effects for better readability
-* 📜 **Random author names** to make content feel personal
-* 🔄 **Infinite scrolling** powered by React and Intersection Observer
-* 🖥 **Responsive design** for desktop and mobile screens
-* 📝 Easy to adapt for **articles, quotes, or educational snippets**
+* ✨ Improved readability with fluid movements and fade-up effects
+
+* 🔄 React and Intersection Observer power endless scrolling
+
+* 🖥  Desktop screen responsive design
+
+* 📝 Simple to modify for quotations, articles, or instructional briefs
 
 ## Potential Applications
 
@@ -75,4 +77,5 @@ Add a live demo link here (e.g., Netlify, Vercel) if hosted:
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
 
