@@ -14,17 +14,17 @@ The way we consume text-based content has been revolutionized by the interactive
 
 <h2>Installation</h2>
 
-1) Clone the repository: 
-<list>git clone https://github.com/your-username/wikitok.git</list>
-<list>cd wikitok</list>
+1) Clone the repository:
+<h4>git clone https://github.com/your-username/wikitok.git</h4>
+<h4>cd wikitok</h4>
 
-2) Install dependencies:
+3) Install dependencies:
 npm install
 
-3) Start the development server:
+4) Start the development server:
 npm start
 
-4) Run the host URL http://localhost:3000/ in your browser.
+5) Run the host URL http://localhost:3000/ in your browser.
 
 <h2>Usage</h2>
 
