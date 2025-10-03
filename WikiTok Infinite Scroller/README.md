@@ -36,8 +36,8 @@ This project demonstrates how thoughtful **UI/UX design** can transform static c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abishekpure/wikitok.git
-cd wikitok
+git clone https://github.com/abishekpure/React-Projects.git
+cd React-Projects/WikiTok\ Infinite\ Scroller
 ```
 
 2. Install dependencies:
@@ -75,6 +75,7 @@ Add a live demo link here (e.g., Netlify, Vercel) if hosted:
 ## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
 
 
 
