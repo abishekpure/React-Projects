@@ -60,21 +60,7 @@ npm start
 * Each card displays a title, content snippet, and author name
 * New cards load automatically when reaching the bottom of the feed
 
-## Customization
 
-* Change **card background** color/gradient in `Card.js`
-* Update **author list** in `Card.js`
-* Adjust **card layout** and typography for your preferred style
-
-## Demo
-
-Add a live demo link here (e.g., Netlify, Vercel) if hosted:
-
-[Live Demo](https://your-demo-link.com)
-
-## License
-
-This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
 
 
