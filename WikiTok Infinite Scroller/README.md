@@ -15,8 +15,8 @@ The way we consume text-based content has been revolutionized by the interactive
 <h2>Installation</h2>
 
 1) Clone the repository: 
-git clone https://github.com/your-username/wikitok.git
-cd wikitok
+<list>git clone https://github.com/your-username/wikitok.git</list>
+<list>cd wikitok</list>
 
 2) Install dependencies:
 npm install
